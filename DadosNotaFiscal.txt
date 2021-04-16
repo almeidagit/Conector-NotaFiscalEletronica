@@ -1,0 +1,49 @@
+
+
+ H|1||
+ I|K1 REF 00 ||exemplo item 1|49369090|| 5101 |UND| 12 | 76 | 13,20 ||UND| 12 | 1,10 |||||1|||| 
+ M||
+ N|
+ N10d|0|102|
+ Q|ç
+ Q04|07|
+ S|
+ S04|07|
+
+ H|2||
+ I|K2 REF 00 ||exemplo item 2|49369090|| 5101 |UND| 12 | 56 | 13,20 ||UND| 12 | 1,10 |||||1|||| 
+ M||
+ N|
+ N10d|0|102|
+ Q|ç
+ Q04|07|
+ S|
+ S04|07|
+
+ H|3||
+ I|K3 REF 00 ||exemplo item 3|49369090|| 5101 |UND| 12 | 34 | 13,20 ||UND| 12 | 1,10 |||||1|||| 
+ M||
+ N|
+ N10d|0|102|
+ Q|ç
+ Q04|07|
+ S|
+ S04|07|
+
+ H|4||
+ I|K4 REF 00 ||exemplo item 4|49369090|| 5101 |UND| 12 | 30 | 13,20 ||UND| 12 | 1,10 |||||1|||| 
+ M||
+ N|
+ N10d|0|102|
+ Q|ç
+ Q04|07|
+ S|
+ S04|07|
+
+ W|
+ W02|0.00|0.00|0.00|0.00|0.00|1.11|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|1.11|0.00|
+ W04c|0.00|
+ W04e|0.00|
+ W04g|0.00|
+ X|0|
+ Z|I - DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL; II - NÃO GERA DIREITO A CRÉDITO FISCAL DE ICMS, DE ISS E DE IPI.||
